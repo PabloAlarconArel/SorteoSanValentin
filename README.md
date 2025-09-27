@@ -75,7 +75,7 @@ Cada cambio que hagas se reflejará automáticamente en el navegador (hot reload
 - ***Serializers***: se utlizó para validaciones de los datos enviados.Ademas de evitar demasiados condicionales para verificar.
 - ***Form***: Opción escogida para manejar formularios y evitar ciertas validaciones manuales y más específicas como clean_field
 - ***Componentes reutilizables***: Como tablas y sidebar para su reutilización en otros vistas.
-- *** tablas ***: uso de la librería vue-good-table para mostrar de forma ordenada los participantes.
+- ***Tablas***: uso de la librería vue-good-table para mostrar de forma ordenada los participantes.
 
 ## Endpoint Principales
 
